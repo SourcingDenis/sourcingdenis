@@ -1,4 +1,3 @@
-### Hi there 👋
 ![GitHub Logo](https://data.whicdn.com/images/330882659/original.gif)
 
 <!--
