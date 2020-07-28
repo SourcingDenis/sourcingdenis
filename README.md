@@ -1,13 +1,14 @@
 
 <div align="center">
-
 ![GitHub Logo](https://data.whicdn.com/images/330882659/original.gif)
 </div>
 
-<!--
-**SourcingDenis/sourcingdenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+🔎 <a href="https://www.linkedin.com/in/sourcingdenis/">People Finder</a> at iDeals | 🎤 Speaker at >10 Conferences | TG channel <a href="t.me/sourcingnuances">SourcingNuances</a> | Youtube Blog 
+</p>
 
-Here are some ideas to get you started:
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
