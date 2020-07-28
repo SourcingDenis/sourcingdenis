@@ -4,5 +4,6 @@
 <hr>
 💬 Get in touch: 📲 <a href="t.me/sourcingdenis">@SourcingDenis</a> | 📫 <a href="mailto:dinkevich.hr@gmail.com">dinkevich.hr@gmail.com</a>
 </p>
+
 ![GitHub Log](https://data.whicdn.com/images/330882659/original.gif)
 </div>
