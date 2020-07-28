@@ -1,5 +1,6 @@
+<p align="center">
 ![GitHub Logo](https://data.whicdn.com/images/330882659/original.gif?style=centerme)
-
+</p>
 <!--
 **SourcingDenis/sourcingdenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
