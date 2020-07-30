@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Denys</h1>
 <h3 align="center">a passionate Talent Sourcer from 🇺🇦</h3>
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
