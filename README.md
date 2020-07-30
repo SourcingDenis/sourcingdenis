@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Denys</h2>
+<h2 align="left">Hi 👋🏻, I'm Denys</h2>
 
 - 🔭 I’m currently working at [iDeals](idealsvdr.com)
 
