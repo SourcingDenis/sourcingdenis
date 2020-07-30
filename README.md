@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋🏻, I'm Denys</h2>
 
-- 🔭 I’m currently working at [iDeals](idealsvdr.com)
+- 🔭 I’m currently working at <a href="idealsvdr.com">iDeals</a>
 
-- 👯 I’m looking to collaborate on [OSINT](osint.best)
+- 👯 I’m looking to collaborate on <a href="osint.best">OSINT</a>
 
-- 📝 I regulary write articles on [sourcingdenis.com](sourcingdenis.com)
+- 📝 I regulary write articles on <a href="sourcingdenis.com">sourcingdenis.com</a>
 
 - 💬 Ask me about **finding people online**
 
