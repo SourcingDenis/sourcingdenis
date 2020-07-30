@@ -1,9 +1,18 @@
-<div align="center">
-<p aling="left">
-🔎 <a href="https://www.linkedin.com/in/sourcingdenis/">People Finder</a> at iDeals | 🎤 Speaker at >10 Conferences 📚 </br> Telegram channel <a href="t.me/sourcingnuances">SourcingNuances</a> | 👀 Нюансы Сорсинга on <a href="https://www.youtube.com/channel/UCpZXjGpN3CwjSY8vS4cvyrw">Youtube</a> 
-<hr>
-💬 Get in touch: 📲 <a href="t.me/sourcingdenis">@SourcingDenis</a> | 📫 <a href="mailto:dinkevich.hr@gmail.com">dinkevich.hr@gmail.com</a>
-</p>
+<h1 align="center">Hi 👋, I'm Denys</h1>
+<h3 align="center">a passionate Talent Sourcer from 🇺🇦</h3>
 
-![GitHub Log](https://data.whicdn.com/images/330882659/original.gif)
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourcingdenis" alt="sourcingdenis" /> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sourcingdenis&show_icons=true" alt="sourcingdenis" /> </p>
+
+<p align="center">
+<a href="https://twitter.com/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sourcingdenis" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourcingdenis" height="20" width="20" /></a>
+<a href="https://fb.com/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sourcingdenis" height="20" width="20" /></a>
+<a href="https://instagram.com/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sourcingdenis" height="20" width="20" /></a>
+<a href="https://medium.com/@sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sourcingdenis" height="20" width="20" /></a>
+</p>
