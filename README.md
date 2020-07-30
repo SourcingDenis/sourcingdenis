@@ -1,14 +1,6 @@
 <h2 align="left">Hi 👋🏻, I'm Denys</h2>
 
-- 🔭 I’m currently working at <a href="idealsvdr.com">iDeals</a>
-
-- 👯 I’m looking to collaborate on <a href="osint.best">OSINT</a>
-
-- 📝 I regulary write articles on <a href="sourcingdenis.com">sourcingdenis.com</a>
-
-- 💬 Ask me about **finding people online**
-
-- 📫 How to reach me **dinkevich.hr@gmail.com**
+<img src="https://i.pinimg.com/originals/6f/d6/f4/6fd6f4453b01dadb885e25826be01e36.gif">
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sourcingdenis&show_icons=true" alt="sourcingdenis" /> </p>
 
