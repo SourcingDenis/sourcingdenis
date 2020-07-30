@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Denys</h1>
-<h3 align="center">a passionate Talent Sourcer from 🇺🇦</h3>
+<h2 align="left">Hi 👋, I'm Denys</h2>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🔭 I’m currently working at [iDeals](idealsvdr.com)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sourcingdenis&show_icons=true" alt="sourcingdenis" /> </p>
+- 👯 I’m looking to collaborate on [OSINT](osint.best)
 
-<p align="center">
+- 📝 I regulary write articles on [sourcingdenis.com](sourcingdenis.com)
+
+- 💬 Ask me about **finding people online**
+
+- 📫 How to reach me **dinkevich.hr@gmail.com**
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sourcingdenis&show_icons=true" alt="sourcingdenis" /> </p>
+
+<p align="left">
 <a href="https://twitter.com/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sourcingdenis" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourcingdenis" height="20" width="20" /></a>
 <a href="https://fb.com/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sourcingdenis" height="20" width="20" /></a>
