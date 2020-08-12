@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋🏻, I'm Denys</h2>
+<h2 align="left">Hi 👋🏻, I'm Denys</h2> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourcingdenis" alt="sourcingdenis" /> </p>
 
 <img src="https://i.pinimg.com/originals/6f/d6/f4/6fd6f4453b01dadb885e25826be01e36.gif">
 
