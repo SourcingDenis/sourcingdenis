@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋🏻, I'm Denys</h2> 
-<img src="https://i.pinimg.com/originals/6f/d6/f4/6fd6f4453b01dadb885e25826be01e36.gif">
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sourcingdenis&show_icons=true" alt="sourcingdenis" /> </p>
 
