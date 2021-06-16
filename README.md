@@ -1,6 +1,5 @@
-<h2 align="left">Hi 👋🏻, I'm Denys</h2>  
+<img src="https://github.com/SourcingDenis/sourcingdenis/blob/master/header.png">
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sourcingdenis&show_icons=true" alt="sourcingdenis" /> </p>
 
 <p align="left">Social Media 🔗:
 <a href="https://twitter.com/sourcingdenis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sourcingdenis" height="20" width="20" /></a>
