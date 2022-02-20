@@ -1,4 +1,4 @@
-<img src="https://github.com/SourcingDenis/sourcingdenis/blob/master/header.png">
+<img src="https://github.com/SourcingDenis/sourcingdenis/blob/master/CleanShot%202022-02-20%20at%2017.08.56%402x.png">
 
 
 <p align="left">Social Media 🔗:
