@@ -3,3 +3,9 @@
  
  <a href="https://readme-jokes.vercel.app"><img align="left" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
  
+ 
+ 
+ 
+<a href="https://www.youtube.com/channel/НюансыСорсинга">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
+</a>
